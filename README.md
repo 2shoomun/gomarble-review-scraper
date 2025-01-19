@@ -115,7 +115,7 @@ graph TD;
 3. **Set Up the Environment**
         - Create a `.env` file in the root directory:
 
-            ```env
+            ```
             OPENAI_API_KEY="your_openai_api_key"
             ```
 
