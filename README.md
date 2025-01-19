@@ -1,4 +1,4 @@
-# GoMarble AI Engineer Assignment
+# GoMarble Assignment
 
 ## Overview
 
@@ -102,13 +102,13 @@ graph TD;
 ## Installation and Setup
 
 1. **Clone the Repository**
-        ```bash
-        git clone https://github.com/your-repo-name.git
-        cd your-repo-name
+        ```
+        git clone https://github.com/gomarble-review-scraper.git
+        cd gomarble-review-scraper
         ```
 
 2. **Install Dependencies**
-        ```bash
+        ```
         pip install --no-cache-dir -r requirements.txt
         ```
 
@@ -122,7 +122,7 @@ graph TD;
         - Replace your_openai_api_key with your OpenAI API key.
 
 4. **Run the Server**
-        ```bash
+        ```
         python app.py
         ```
 
